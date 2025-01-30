@@ -31,6 +31,8 @@ Visualization Used: Bar Chart (Profit by Branch)
 
 Insight: Identifies the top-performing branch based on total profit.
 
+Recommendation:
+
 
 ### Sales per Product (Performance Analysis)
 
@@ -39,6 +41,8 @@ Question: How do different products perform in terms of sales?
  Visualization Used: Treemap / Bar Chart (Sales by Product)
  
  Insight: Highlights best-selling and underperforming products.
+
+ Recommendation:
 
 
  ### Sales by Gender (Customer Behavior)
@@ -49,6 +53,8 @@ Visualization Used: Pie Chart (Sales Split by Gender)
 
  Insight: Understands customer buying behavior across genders.
 
+ Recommendation:
+
 
 ### Sales Over Three Months (Trend Analysis)
 
@@ -58,6 +64,8 @@ Visualization Used: Pie Chart (Sales Split by Gender)
  
  Insight: Identifies growth patterns or sales fluctuations.
 
+ Recommendation:
+
 
 ### Gross Income by Product Line & Quantity
 
@@ -66,6 +74,8 @@ Visualization Used: Pie Chart (Sales Split by Gender)
 Visualization Used: Stacked Column Chart / Waterfall Chart
 
 Insight: Determines the profitability of each product category.
+
+Recommendation:
 
 
 ![Screenshot Dashboard](https://github.com/user-attachments/assets/926c08e4-e88c-4ac1-b4d2-a604429ee403)
