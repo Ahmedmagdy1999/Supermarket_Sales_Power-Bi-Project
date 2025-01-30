@@ -30,3 +30,40 @@ Question: Which branch generates the highest profit?
 Visualization Used: Bar Chart (Profit by Branch)
 
 Insight: Identifies the top-performing branch based on total profit.
+
+
+### Sales per Product (Performance Analysis)
+
+Question: How do different products perform in terms of sales?
+
+ Visualization Used: Treemap / Bar Chart (Sales by Product)
+ 
+ Insight: Highlights best-selling and underperforming products.
+
+
+ ### Sales by Gender (Customer Behavior)
+ 
+Question: What is the distribution of sales by gender?
+
+Visualization Used: Pie Chart (Sales Split by Gender)
+
+ Insight: Understands customer buying behavior across genders.
+
+
+### Sales Over Three Months (Trend Analysis)
+
+ Question: How have our sales progressed over three months?
+ 
+ Visualization Used: Line Chart (Sales Trend Over 3 Months)
+ 
+ Insight: Identifies growth patterns or sales fluctuations.
+
+
+### Gross Income by Product Line & Quantity
+
+ Question: What is our gross income per product line and its quantity?
+ 
+Visualization Used: Stacked Column Chart / Waterfall Chart
+
+Insight: Determines the profitability of each product category.
+
