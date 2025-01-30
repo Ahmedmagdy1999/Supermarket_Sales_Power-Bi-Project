@@ -4,11 +4,11 @@
 This project analyzes Supermarket Sales Data using Power BI to uncover key insights and answer important business questions. The dataset was obtained from Kaggle, and the analysis includes data cleaning, modeling, and visualization to provide meaningful insights about sales performance, customer trends, and product profitability.
 
 ## Data Source
-📂 Dataset Name: Supermarket Sales
+ Dataset Name: Supermarket Sales
 
-📌 Source: Kaggle (Public Dataset)
+ Source: Kaggle (Public Dataset)
 
-🔍 Description: The dataset contains sales transactions from a supermarket, including details like product categories, payment methods, customer types, and purchase amounts.
+ Description: The dataset contains sales transactions from a supermarket, including details like product categories, payment methods, customer types, and purchase amounts.
 
 ## Data Cleaning & Preparation
 
