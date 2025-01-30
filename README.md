@@ -67,3 +67,52 @@ Visualization Used: Stacked Column Chart / Waterfall Chart
 
 Insight: Determines the profitability of each product category.
 
+
+![Screenshot Dashboard](https://github.com/user-attachments/assets/926c08e4-e88c-4ac1-b4d2-a604429ee403)
+
+
+
+## Skills Demonstration
+
+This project showcases my ability to work with Power BI to transform raw data into actionable insights. Key skills demonstrated include:
+
+### Data Cleaning & Preparation
+
+Used Power Query to clean and structure data.
+
+Renamed column headers for better readability.
+
+Removed duplicates to maintain data integrity.
+
+
+### Data Visualization & Insights
+
+Designed interactive dashboards using Power BI.
+
+Built bar charts, treemaps, pie charts, line charts, and waterfall charts to analyze sales, customer behavior, and profitability.
+
+Implemented slicers to allow dynamic filtering of reports.
+
+
+### Business Insights & Decision-Making
+
+Identified the most profitable branch for strategic decision-making.
+
+Evaluated sales performance per product to optimize inventory and pricing.
+
+Analyzed customer buying behavior by gender for targeted marketing strategies.
+
+Tracked three-month sales performance to monitor business growth.
+
+Assessed gross income per product line to improve profitability.
+
+
+## Conclusion
+
+This Power BI project effectively analyzes Supermarket Sales Data, providing valuable insights into branch profitability, product performance, customer behavior, and sales trends.
+
+By leveraging Power BI’s powerful data modeling, DAX calculations, and visualization capabilities, I built an interactive dashboard that allows business stakeholders to make data-driven decisions.
+
+This project demonstrates how data analytics can drive business growth by identifying key areas for improvement and optimizing performance strategies. 
+
+
