@@ -31,10 +31,10 @@ Visualization Used: Bar Chart (Profit by Branch)
 
 Insight: Identifies the top-performing branch based on total profit.
 
-Recommendation:
+Recommendation: Branch C has the highest sales percentage, while the other branches show similar performance. It is recommended to analyze the sales strategies in Branch C to identify key success factors. Implementing these best practices across other branches could help streamline the sales process and improve overall performance.
 
 
-### Sales per Product (Performance Analysis)
+### Sales per Product Line (Performance Analysis)
 
 Question: How do different products perform in terms of sales?
 
@@ -42,7 +42,7 @@ Question: How do different products perform in terms of sales?
  
  Insight: Highlights best-selling and underperforming products.
 
- Recommendation:
+ Recommendation:  Since sales are evenly distributed across all product lines, consider introducing targeted promotions or bundling strategies to differentiate high-margin products.
 
 
  ### Sales by Gender (Customer Behavior)
@@ -53,7 +53,7 @@ Visualization Used: Pie Chart (Sales Split by Gender)
 
  Insight: Understands customer buying behavior across genders.
 
- Recommendation:
+ Recommendation: Both genders contribute significantly to total sales, with female customers leading in purchases. To maximize revenue, consider targeted marketing campaigns and personalized promotions for female shoppers while also exploring strategies to further engage male customers.
 
 
 ### Sales Over Three Months (Trend Analysis)
@@ -64,7 +64,7 @@ Visualization Used: Pie Chart (Sales Split by Gender)
  
  Insight: Identifies growth patterns or sales fluctuations.
 
- Recommendation:
+ Recommendation: Sales and gross income performed well over three months, except for February, which saw a significant decline. It is recommended to analyze potential factors such as seasonality, holidays, pricing strategies, or external market conditions that may have impacted sales. Implementing targeted promotions, discounts, or marketing campaigns in February could help stabilize sales in the future.
 
 
 ### Gross Income by Product Line & Quantity
@@ -75,7 +75,7 @@ Visualization Used: Stacked Column Chart / Waterfall Chart
 
 Insight: Determines the profitability of each product category.
 
-Recommendation:
+Recommendation: Since gross income and quantity sold are evenly distributed across product lines, consider identifying high-margin products and promoting them more aggressively. Additionally, implementing bundling strategies, upselling, or seasonal discounts can help increase profitability and drive higher sales for specific product categories
 
 
 ![Screenshot Dashboard](https://github.com/user-attachments/assets/926c08e4-e88c-4ac1-b4d2-a604429ee403)
